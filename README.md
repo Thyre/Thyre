@@ -1,4 +1,4 @@
-### Hi there
+## Hi there
 
 ---
 
@@ -10,7 +10,7 @@ In addition, I'm working with collegues on improving the Scattered Light Imaging
 
 ### About me:
 
-- 25 years old, born in Germany
+- 26 years old, born in Germany
 - Master of Science in Applied Mathematics and Informatics
 - Currently looking into learning C#
 - Ask me about anything
