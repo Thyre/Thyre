@@ -2,17 +2,17 @@
 
 ---
 
-#### Currently working as a research fellow and programmer in the [Fiber Architecture Group of the INM-1 (FZJ)](https://www.fz-juelich.de/en/inm/inm-1/research/fiber-architecture)
+#### Currently working as a research fellow and programmer in the [Parallel performance group of the Jülich Supercomputing Centre](https://www.fz-juelich.de/en/ias/jsc/about-us/structure/atml/atml-parallel-performance)
 
-My work projects are focussed on developing tools and libraries for high performance computing systems like JURECA-DC. 
+Until November 30th 2022 I worked at the **Fiber Architecture group** of the INM-1 at the Research Center Jülich.
+My work projects were focussed on developing tools and libraries for high performance computing systems like JURECA-DC. 
 
-In addition, I'm working with collegues on improving the Scattered Light Imaging measurement procedure on the measurement side itself or with projects like [SLIX](https://www.github.com/3d-pli/SLIX) which originally started as my master thesis.
+In addition, I worked with collegues on improving the Scattered Light Imaging measurement procedure on the measurement side itself or with projects like [SLIX](https://www.github.com/3d-pli/SLIX) which originally started as my master thesis.
 
 ### About me:
 
 - 26 years old, born in Germany
 - Master of Science in Applied Mathematics and Informatics
-- Currently looking into learning C#
 - Ask me about anything
 - Hobbies: Gaming, Reading, Music (Drum&Bass), Hiking
 
