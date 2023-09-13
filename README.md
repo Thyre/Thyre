@@ -11,7 +11,7 @@ In addition, I worked with collegues on improving the Scattered Light Imaging me
 
 ### About me:
 
-- 26 years old, born in Germany
+- 27 years old, born in Germany
 - Master of Science in Applied Mathematics and Informatics
 - Ask me about anything
 - Hobbies: Gaming, Reading, Music (Drum&Bass), Hiking
