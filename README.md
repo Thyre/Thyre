@@ -21,9 +21,7 @@ In addition, I worked with collegues on improving the Scattered Light Imaging me
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="vertical-align:top; margin:4px"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" style="vertical-align:top; margin:4px"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="vertical-align:top; margin:4px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="vertical-align:top; margin:4px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" style="vertical-align:top; margin:4px"/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="vertical-align:top; margin:4px"/>      
 </p>
 
 ### Tools and Toolchains:
