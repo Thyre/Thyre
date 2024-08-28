@@ -11,7 +11,7 @@ In addition, I worked with collegues on improving the Scattered Light Imaging me
 
 ### About me:
 
-- 27 years old, born in Germany
+- 28 years old
 - Master of Science in Applied Mathematics and Informatics
 - Ask me about anything
 - Hobbies: Gaming, Reading, Music (Drum&Bass), Hiking
@@ -44,7 +44,6 @@ In addition, I worked with collegues on improving the Scattered Light Imaging me
 <a href=https://www.xing.com/profile/JanAndre_Reuter/><img src="https://github.com/Remix-Design/RemixIcon/blob/master/icons/Logos/xing-fill.svg" height="40" style="vertical-align:top; margin:4px"/></a>
 <a href=https://orcid.org/0000-0002-1219-0310/><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="40" style="vertical-align:top; margin:4px"/></a>
 </p>
-
 
 
 ---
