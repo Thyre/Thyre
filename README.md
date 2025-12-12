@@ -1,19 +1,33 @@
-## Hi there
+## Hi there :wave:
 
----
+Currently working as a software developer in the [ATML Parallel performance at the Jülich Supercomputing Centre](https://www.fz-juelich.de/en/ias/jsc/about-us/structure/atml/atml-parallel-performance)
 
-#### Currently working as a research fellow and programmer in the [Parallel performance group of the Jülich Supercomputing Centre](https://www.fz-juelich.de/en/ias/jsc/about-us/structure/atml/atml-parallel-performance)
+My work focuses on development on the performance analysis infrastructure [Score-P](https://score-p.org) and contributions to [EasyBuild](https://easybuild.io/).
+My main interests lie in anything and everything accelerator, compiler and parallel paradigm related.
+This is reflected in both personal and work projects, trying to bridge a gap between topics being interesting and directly contributing to them, if possible.
 
-Until November 30th 2022 I worked at the **Fiber Architecture group** of the INM-1 at the Research Center Jülich.
-My work projects were focussed on developing tools and libraries for high performance computing systems like JURECA-DC. 
+#### Past (work) projects
 
-In addition, I worked with collegues on improving the Scattered Light Imaging measurement procedure on the measurement side itself or with projects like [SLIX](https://www.github.com/3d-pli/SLIX) which originally started as my master thesis.
+##### OpenMP (Tools Interface)
+- Extending support for the OpenMP Tools Interface in Score-P to fully support host-side events ([abstract](https://tu-dresden.de/zih/das-department/termine/parallel-tools-workshop-2024/abstracts#ck_a5))
+- Extending support further to also support the device tracing interface in Score-P ([webinar](https://pop-coe.eu/blog/27th-pop-webinar-performance-analysis-of-openmp-target-offloading-in-score-p))
+- Implementing a basic information dumping tool, used to understand the dispatched event sequence of OpenMP programs with available OpenMP runtimes and handling their pecularities in Score-P
 
+##### Compiler instrumentation
+- Adding an additional compiler instrumentation backend to Score-P, based on LLVM IR, with continously keeping up with changes upstream
+
+#### Current (work) projects
+
+##### Accelerator-based paradigms
+- Work on re-writing and extending the CUDA adapter of Score-P
+
+##### Compiler instrumentation
+- Collaboratively bring [XRay](https://llvm.org/docs/XRay.html) into Score-P as another compiler instrumentation backend
+ 
 ### About me:
 
-- 28 years old
+- 29 years old
 - Master of Science in Applied Mathematics and Informatics
-- Ask me about anything
 - Hobbies: Gaming, Reading, Music (Drum&Bass), Hiking
 
 ### Languages:
